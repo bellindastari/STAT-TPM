@@ -14,7 +14,12 @@ The study aims to examine the relationship between economic factors and househol
 ## Methodology  
 - **Data Source**: BPS (Statistics Indonesia), 2023  
 - **Analysis Approach**: Multiple Linear Regression using Python & IBM SPSS Statistics  
-- **Key Statistical Tests**: Normality test, Multicollinearity test, Heteroskedasticity test, F-test, T-test, and Adjusted R-Square  
+- **Key Statistical Tests**: Normality test, Multicollinearity test, Heteroskedasticity test, F-test, T-test, and Adjusted R-Square
+
+## **Paper Reference**  
+For a detailed explanation of the methodology and results, please refer to the full research paper:  
+📄 **[Analisis Pengaruh Tingkat Pengangguran Terbuka, Tingkat Penyelesaian
+Pendidikan, dan Upah terhadap Tingkat Pengeluaran Masyarakat](https://drive.google.com/file/d/1OuKVglz04wiOQdnSgLIv1tIi-xcw2Li1/view?usp=sharing)** 
 
 ## Authors  
 This research was conducted by:  
